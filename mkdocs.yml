@@ -1,0 +1,44 @@
+---
+site_name: "Eric Nemchik"
+site_description: "I'm a techie who loves to code."
+site_author: "Eric Nemchik"
+site_url: https://nemchik.com
+
+repo_name: nemchik/nemchik
+repo_url: https://github.com/nemchik/nemchik
+edit_uri: https://github.com/nemchik/nemchik/edit/master/docs/
+
+copyright: "Copyright &copy; 2020 Eric Nemchik"
+
+extra:
+  manifest: manifest.webmanifest
+  social:
+    - icon: fontawesome/brands/github-square
+      link: https://github.com/nemchik
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/nemchik
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/nemchik
+    - icon: fontawesome/brands/facebook-square
+      link: https://facebook.com/nemchik
+    - icon: fontawesome/brands/twitter-square
+      link: https://twitter.com/NemchikEric
+
+google_analytics:
+  - UA-8908801-1
+  - auto
+
+markdown_extensions:
+  - meta
+
+theme:
+  name: material
+  language: en
+  favicon: images/favicon.ico
+  logo: images/android-chrome-512x512.png
+  palette:
+    primary: "blue grey"
+    accent: red
+
+nav:
+  - index.md

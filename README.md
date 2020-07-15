@@ -1,3 +1,7 @@
+# <!-- # -->
+
+## <!-- ## -->
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ... `too many things`
+- 🌱 I’m currently learning ... `unifi`
+- 👯 I’m looking to collaborate on ... `bash, docker, node.js`
+- 🤔 I’m looking for help with ... `sleep`
+- 💬 Ask me about ... `bash, docker, web languages, powershell`
+- 📫 How to reach me: ... `eric@nemchik.com`
+- 😄 Pronouns: ... `i'm pretty apathetic about pronouns`
+- ⚡ Fun fact: ... `i watch too much tv`
