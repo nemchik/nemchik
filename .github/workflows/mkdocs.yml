@@ -21,9 +21,3 @@ jobs:
       - run: pip install mkdocs-material
 
       - run: mkdocs gh-deploy --force
-
-      # - name: Deploy docs
-      #   uses: mhausenblas/mkdocs-deploy-gh-pages@1.14
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #     CUSTOM_DOMAIN: nemchik.com
