@@ -1,13 +1,13 @@
 ---
-site_name: "Eric Nemchik"
-site_description: "I'm a techie who loves to code."
-site_author: "Eric Nemchik"
+site_name: Eric Nemchik
+site_description: I'm a techie who loves to code.
+site_author: Eric Nemchik
 site_url: https://nemchik.com
 
 repo_url: https://github.com/nemchik/nemchik
 repo_name: nemchik/nemchik
 
-copyright: "Copyright &copy; 2020 Eric Nemchik"
+copyright: Copyright &copy; 2020 Eric Nemchik
 
 extra:
   manifest: manifest.webmanifest
@@ -30,7 +30,7 @@ google_analytics:
 plugins:
   - search
   - redirects:
-      redirect_maps:
+    redirect_maps:
         s/facebook.md: https://facebook.com/nemchik
         s/github.md: https://github.com/nemchik
         s/gitlab.md: https://gitlab.com/nemchik
@@ -49,7 +49,7 @@ theme:
   favicon: images/favicon.ico
   logo: images/android-chrome-512x512.png
   palette:
-    primary: "blue grey"
+    primary: blue grey
     accent: red
 
 nav:
