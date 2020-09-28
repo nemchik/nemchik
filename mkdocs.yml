@@ -31,15 +31,15 @@ plugins:
   - search
   - redirects:
     redirect_maps:
-      s/facebook.md: https://facebook.com/nemchik
-      s/github.md: https://github.com/nemchik
-      s/gitlab.md: https://gitlab.com/nemchik
-      s/linkedin.md: https://linkedin.com/in/nemchik
-      s/twitter.md: https://twitter.com/NemchikEric
-      u/buyshared.md: https://my.frantech.ca/aff.php?aff=1555&site=buyshared
-      u/buyvm.md: https://my.frantech.ca/aff.php?aff=1555&site=buyvm
-      u/demon.md: https://www.newsdemon.com/?ref=12041353
-      u/farm.md: https://usenet.farm/?a=nemchik.com
+        s/facebook.md: https://facebook.com/nemchik
+        s/github.md: https://github.com/nemchik
+        s/gitlab.md: https://gitlab.com/nemchik
+        s/linkedin.md: https://linkedin.com/in/nemchik
+        s/twitter.md: https://twitter.com/NemchikEric
+        u/buyshared.md: https://my.frantech.ca/aff.php?aff=1555&site=buyshared
+        u/buyvm.md: https://my.frantech.ca/aff.php?aff=1555&site=buyvm
+        u/demon.md: https://www.newsdemon.com/?ref=12041353
+        u/farm.md: https://usenet.farm/?a=nemchik.com
 
 theme:
   name: material
