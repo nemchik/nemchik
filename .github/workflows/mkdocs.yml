@@ -17,7 +17,6 @@ jobs:
           python-version: 3.x
 
       - run: pip install mkdocs-material
-      - run: pip install mkdocs-minify-plugin
       - run: pip install mkdocs-redirects
 
       # - run: cp README.md docs/index.md
