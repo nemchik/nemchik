@@ -4,9 +4,8 @@ site_description: "I'm a techie who loves to code."
 site_author: "Eric Nemchik"
 site_url: https://nemchik.com
 
-repo_name: nemchik/nemchik
 repo_url: https://github.com/nemchik/nemchik
-edit_uri: https://github.com/nemchik/nemchik/edit/master/docs/
+repo_name: nemchik/nemchik
 
 copyright: "Copyright &copy; 2020 Eric Nemchik"
 
@@ -28,11 +27,24 @@ google_analytics:
   - UA-8908801-1
   - auto
 
-markdown_extensions:
-  - meta
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        s/facebook.md: https://facebook.com/nemchik
+        s/github.md: https://github.com/nemchik
+        s/gitlab.md: https://gitlab.com/nemchik
+        s/linkedin.md: https://linkedin.com/in/nemchik
+        s/twitter.md: https://twitter.com/NemchikEric
+        u/buyshared.md: https://my.frantech.ca/aff.php?aff=1555&site=buyshared
+        u/buyvm.md: https://my.frantech.ca/aff.php?aff=1555&site=buyvm
+        u/demon.md: https://www.newsdemon.com/?ref=12041353
+        u/farm.md: https://usenet.farm/?a=nemchik.com
 
 theme:
   name: material
+  features:
+    - navigation.instant
   language: en
   favicon: images/favicon.ico
   logo: images/android-chrome-512x512.png
