@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... `too many things`
-- 🌱 I’m currently learning ... `unifi`
+- 🌱 I’m currently learning ... `yq (python version)`
 - 👯 I’m looking to collaborate on ... `bash, docker, node.js`
 - 🤔 I’m looking for help with ... `sleep`
 - 💬 Ask me about ... `bash, docker, web languages, powershell`
