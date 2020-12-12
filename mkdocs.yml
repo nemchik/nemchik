@@ -23,9 +23,8 @@ extra:
     - icon: fontawesome/brands/twitter-square
       link: https://twitter.com/NemchikEric
 
-google_analytics:
-  - G-GBKLVHZFR3
-  - auto
+extra_javascript:
+  - javascripts/extra.js
 
 plugins:
   - search
@@ -43,6 +42,7 @@ plugins:
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
   language: en
