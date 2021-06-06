@@ -10,6 +10,9 @@ repo_name: nemchik/nemchik
 copyright: Copyright &copy; 2020 Eric Nemchik
 
 extra:
+  analytics:
+    provider: google
+    property: G-GBKLVHZFR3
   manifest: manifest.webmanifest
   social:
     - icon: fontawesome/brands/github-square
@@ -23,9 +26,6 @@ extra:
     - icon: fontawesome/brands/twitter-square
       link: https://twitter.com/NemchikEric
 
-extra_javascript:
-  - javascripts/extra.js
-
 plugins:
   - search
   - redirects:
@@ -37,8 +37,6 @@ plugins:
         s/twitter.md: https://twitter.com/NemchikEric
         u/buyshared.md: https://my.frantech.ca/aff.php?aff=1555&site=buyshared
         u/buyvm.md: https://my.frantech.ca/aff.php?aff=1555&site=buyvm
-        u/demon.md: https://www.newsdemon.com/?ref=12041353
-        u/farm.md: https://usenet.farm/?a=nemchik.com
 
 theme:
   name: material
