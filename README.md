@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on ... `too many things`
+- 🔭 I’m currently working on ... `expanding my knowledge and experience with the skills and hobbies I love!`
 - 🌱 I’m currently learning ... `typescript`
 - 👯 I’m looking to collaborate on ... `bash, docker, node.js`
 - 🤔 I’m looking for help with ... `sleep`
 - 💬 Ask me about ... `bash, docker, web languages, powershell`
 - 📫 How to reach me: ... `eric@nemchik.com`
-- 😄 Pronouns: ... `i'm pretty apathetic about pronouns`
-- ⚡ Fun fact: ... `i watch too much tv`
+- ⚡ Fun fact: ... `I watch too much tv`
