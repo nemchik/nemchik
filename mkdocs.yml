@@ -48,6 +48,3 @@ theme:
   palette:
     primary: blue grey
     accent: red
-
-nav:
-  - index.md
