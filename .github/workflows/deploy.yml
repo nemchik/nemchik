@@ -15,5 +15,5 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install -r docs/requirements.txt
-      # - run: cp README.md docs/index.md
+      - run: cp README.md docs/index.md
       - run: mkdocs gh-deploy --force
