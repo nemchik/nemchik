@@ -1,4 +1,4 @@
-# Eric Nemchik
+# About Me
 
 Hello, I’m Eric Nemchik.
 
