@@ -48,3 +48,4 @@ theme:
   palette:
     primary: blue grey
     accent: red
+    scheme: slate
