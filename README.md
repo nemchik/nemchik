@@ -119,7 +119,7 @@ Sleep.
 
 ### 👨‍💻 This week, I spent my time on
 
-[![Eric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nemchik&theme=dark&layout=compact)](https://wakatime.com/@nemchik)
+[![Eric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nemchik&theme=dark&layout=compact)](https://wakatime.com/@nemchik)
 
 ## How to reach me
 
