@@ -83,7 +83,7 @@ Sleep.
 ![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?style=flat-square&logoColor=white&logo=chocolatey)
 ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat-square&logoColor=white&logo=composer)
 ![curl](https://img.shields.io/badge/-curl-073551?style=flat-square&logoColor=white&logo=curl)
-![EditorConfig](https://img.shields.io/badge/-EditorConfig-FEFEFE?style=flat-square&logoColor=white&logo=editorconfig)
+![EditorConfig](https://img.shields.io/badge/-EditorConfig-FEFEFE?style=flat-square&logoColor=black&logo=editorconfig)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logoColor=white&logo=eslint)
 ![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logoColor=white&logo=filezilla)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logoColor=white&logo=git)
