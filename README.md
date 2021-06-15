@@ -67,7 +67,7 @@ Sleep.
 ![Authy](https://img.shields.io/static/v1?style=flat-square&logo=authy&logoColor=white&label=&labelColor=EC1C24&message=Authy&color=16171d)
 ![Bitwarden](https://img.shields.io/static/v1?style=flat-square&logo=bitwarden&logoColor=white&label=&labelColor=175DDC&message=Bitwarden&color=16171d)
 ![Cloudflare](https://img.shields.io/static/v1?style=flat-square&logo=cloudflare&logoColor=white&label=&labelColor=F38020&message=Cloudflare&color=16171d)
-![Codacy](https://img.shields.io/static/v1?style=flat-square&logo=cloudflare&logoColor=white&label=&labelColor=F38020&message=Codacy&color=16171d)
+![Codacy](https://img.shields.io/static/v1?style=flat-square&logo=codacy&logoColor=white&label=&labelColor=F38020&message=Codacy&color=16171d)
 ![cPanel](https://img.shields.io/static/v1?style=flat-square&logo=cpanel&logoColor=white&label=&labelColor=FF6C2C&message=cPanel&color=16171d)
 ![Datto](https://img.shields.io/static/v1?style=flat-square&logo=datto&logoColor=white&label=&labelColor=199ED9&message=Datto&color=16171d)
 ![Dependabot](https://img.shields.io/static/v1?style=flat-square&logo=dependabot&logoColor=white&label=&labelColor=025E8C&message=Dependabot&color=16171d)
