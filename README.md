@@ -48,12 +48,12 @@ Sleep.
 ![Chart.js](https://img.shields.io/static/v1?style=flat-square&logo=chartdotjs&logoColor=white&label=&labelColor=FF6384&message=Chart.js&color=16171d)
 ![CSS3](https://img.shields.io/static/v1?style=flat-square&logo=css3&logoColor=white&label=&labelColor=1572B6&message=CSS3&color=16171d)
 ![Docker](https://img.shields.io/static/v1?style=flat-square&logo=docker&logoColor=white&label=&labelColor=2496ED&message=Docker&color=16171d)
-![GNU Bash](https://img.shields.io/static/v1?style=flat-square&logo=gnubash&logoColor=white&label=&labelColor=4EAA25&message=GNU_Bash&color=16171d)
+![GNU Bash](https://img.shields.io/static/v1?style=flat-square&logo=gnubash&logoColor=white&label=&labelColor=4EAA25&message=GNU%20Bash&color=16171d)
 ![HTML5](https://img.shields.io/static/v1?style=flat-square&logo=html5&logoColor=white&label=&labelColor=E34F26&message=HTML5&color=16171d)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&logo=javascript&logoColor=black&label=&labelColor=F7DF1E&message=JavaScript&color=16171d)
 ![jQuery](https://img.shields.io/static/v1?style=flat-square&logo=jquery&logoColor=white&label=&labelColor=0769AD&message=jQuery&color=16171d)
 ![Markdown](https://img.shields.io/static/v1?style=flat-square&logo=markdown&logoColor=white&label=&labelColor=000000&message=Markdown&color=16171d)
-![Microsoft SQL Server](https://img.shields.io/static/v1?style=flat-square&logo=microsoftsqlserver&logoColor=white&label=&labelColor=CC2927&message=Microsoft_SQL_Server&color=16171d)
+![Microsoft SQL Server](https://img.shields.io/static/v1?style=flat-square&logo=microsoftsqlserver&logoColor=white&label=&labelColor=CC2927&message=Microsoft%20SQL%20Server&color=16171d)
 ![MySQL](https://img.shields.io/static/v1?style=flat-square&logo=mysql&logoColor=white&label=&labelColor=4479A1&message=MySQL&color=16171d)
 ![NGINX](https://img.shields.io/static/v1?style=flat-square&logo=nginx&logoColor=white&label=&labelColor=009639&message=NGINX&color=16171d)
 ![Node.js](https://img.shields.io/static/v1?style=flat-square&logo=nodedotjs&logoColor=white&label=&labelColor=339933&message=Node.js&color=16171d)
@@ -74,7 +74,7 @@ Sleep.
 ![GitHub](https://img.shields.io/static/v1?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&message=GitHub&color=16171d)
 ![GitLab](https://img.shields.io/static/v1?style=flat-square&logo=gitlab&logoColor=white&label=&labelColor=FCA121&message=GitLab&color=16171d)
 ![LetsEncrypt](https://img.shields.io/static/v1?style=flat-square&logo=LetsEncrypt&logoColor=white&label=&labelColor=003A70&message=LetsEncrypt&color=16171d)
-![Travis CI](https://img.shields.io/static/v1?style=flat-square&logo=travisci&logoColor=white&label=&labelColor=3EAAAF&message=Travis_CI&color=16171d)
+![Travis CI](https://img.shields.io/static/v1?style=flat-square&logo=travisci&logoColor=white&label=&labelColor=3EAAAF&message=Travis%20CI&color=16171d)
 
 ### 🧰 Tools
 
@@ -86,8 +86,8 @@ Sleep.
 ![ESLint](https://img.shields.io/static/v1?style=flat-square&logo=eslint&logoColor=white&label=&labelColor=4B32C3&message=ESLint&color=16171d)
 ![FileZilla](https://img.shields.io/static/v1?style=flat-square&logo=filezilla&logoColor=white&label=&labelColor=BF0000&message=FileZilla&color=16171d)
 ![Git](https://img.shields.io/static/v1?style=flat-square&logo=git&logoColor=white&label=&labelColor=F05032&message=Git&color=16171d)
-![Google Chrome](https://img.shields.io/static/v1?style=flat-square&logo=googlechrome&logoColor=white&label=&labelColor=4285F4&message=Google_Chrome&color=16171d)
-![Microsoft Edge](https://img.shields.io/static/v1?style=flat-square&logo=microsoftedge&logoColor=white&label=&labelColor=0078D7&message=Microsoft_Edge&color=16171d)
+![Google Chrome](https://img.shields.io/static/v1?style=flat-square&logo=googlechrome&logoColor=white&label=&labelColor=4285F4&message=Google%20Chrome&color=16171d)
+![Microsoft Edge](https://img.shields.io/static/v1?style=flat-square&logo=microsoftedge&logoColor=white&label=&labelColor=0078D7&message=Microsoft%20Edge&color=16171d)
 ![npm](https://img.shields.io/static/v1?style=flat-square&logo=npm&logoColor=white&label=&labelColor=CB3837&message=npm&color=16171d)
 ![Prettier](https://img.shields.io/static/v1?style=flat-square&logo=prettier&logoColor=black&label=&labelColor=F7B93E&message=Prettier&color=16171d)
 ![stylelint](https://img.shields.io/static/v1?style=flat-square&logo=stylelint&logoColor=white&label=&labelColor=263238&message=stylelint&color=16171d)
@@ -96,10 +96,10 @@ Sleep.
 ![Ubiquiti](https://img.shields.io/static/v1?style=flat-square&logo=ubiquiti&logoColor=white&label=&labelColor=0559C9&message=Ubiquiti&color=16171d)
 ![Ubuntu](https://img.shields.io/static/v1?style=flat-square&logo=ubuntu&logoColor=white&label=&labelColor=E95420&message=Ubuntu&color=16171d)
 ![Unraid](https://img.shields.io/static/v1?style=flat-square&logo=unraid&logoColor=white&label=&labelColor=F15A2C&message=Unraid&color=16171d)
-![Visual Studio Code](https://img.shields.io/static/v1?style=flat-square&logo=visualstudiocode&logoColor=white&label=&labelColor=007ACC&message=Visual_Studio_Code&color=16171d)
+![Visual Studio Code](https://img.shields.io/static/v1?style=flat-square&logo=visualstudiocode&logoColor=white&label=&labelColor=007ACC&message=Visual%20Studio%20Code&color=16171d)
 ![VMware](https://img.shields.io/static/v1?style=flat-square&logo=vmware&logoColor=white&label=&labelColor=607078&message=VMware&color=16171d)
 ![Webpack](https://img.shields.io/static/v1?style=flat-square&logo=webpack&logoColor=black&label=&labelColor=8DD6F9&message=Webpack&color=16171d)
-![Windows Terminal](https://img.shields.io/static/v1?style=flat-square&logo=windowsterminal&logoColor=white&label=&labelColor=4D4D4D&message=Windows_Terminal&color=16171d)
+![Windows Terminal](https://img.shields.io/static/v1?style=flat-square&logo=windowsterminal&logoColor=white&label=&labelColor=4D4D4D&message=Windows%20Terminal&color=16171d)
 ![Windows](https://img.shields.io/static/v1?style=flat-square&logo=windows&logoColor=white&label=&labelColor=0078D6&message=Windows&color=16171d)
 
 ## Stats and Achievements
