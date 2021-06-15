@@ -15,14 +15,14 @@ extra:
     property: G-GBKLVHZFR3
   manifest: manifest.webmanifest
   social:
+    - icon: fontawesome/brands/facebook-square
+      link: https://facebook.com/nemchik
     - icon: fontawesome/brands/github-square
       link: https://github.com/nemchik
     - icon: fontawesome/brands/gitlab
       link: https://gitlab.com/nemchik
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/nemchik
-    - icon: fontawesome/brands/facebook-square
-      link: https://facebook.com/nemchik
     - icon: fontawesome/brands/twitter-square
       link: https://twitter.com/NemchikEric
 
