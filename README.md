@@ -146,5 +146,3 @@ He/Him
 ![GMail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&logoColor=white&label=&labelColor=EA4335&message=GMail&color=16171d)
 ![LinkedIn](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&message=LinkedIn&color=16171d)
 ![Twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&labelColor=1DA1F2&message=Twitter&color=16171d)
-
-![Twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&labelColor=1DA1F2&message=Twitter&color=16171d)
