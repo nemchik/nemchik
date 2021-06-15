@@ -1,4 +1,3 @@
----
 site_name: Eric Nemchik
 site_description: I'm a techie who loves to code.
 site_author: Eric Nemchik
@@ -46,6 +45,17 @@ theme:
   favicon: images/favicon.ico
   logo: images/android-chrome-512x512.png
   palette:
-    primary: blue grey
-    accent: red
-    scheme: slate
+    - media: "(prefers-color-scheme: light)"
+      primary: blue grey
+      accent: red
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: blue grey
+      accent: red
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
