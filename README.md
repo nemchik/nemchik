@@ -140,9 +140,9 @@ He/Him
 
 ### 📫 How to reach me
 
-![Facebook](https://img.shields.io/static/v1?style=flat-square&logo=facebook&logoColor=white&label=&labelColor=1877F2&message=Facebook&color=16171d)
-![GitHub](https://img.shields.io/static/v1?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&message=GitHub&color=16171d)
-![GitLab](https://img.shields.io/static/v1?style=flat-square&logo=gitlab&logoColor=white&label=&labelColor=FCA121&message=GitLab&color=16171d)
-![GMail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&logoColor=white&label=&labelColor=EA4335&message=GMail&color=16171d)
-![LinkedIn](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&message=LinkedIn&color=16171d)
-![Twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&labelColor=1DA1F2&message=Twitter&color=16171d)
+[![Facebook](https://img.shields.io/static/v1?style=flat-square&logo=facebook&logoColor=white&label=&labelColor=1877F2&message=Facebook&color=16171d)](https://facebook.com/nemchik)
+[![GitHub](https://img.shields.io/static/v1?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&message=GitHub&color=16171d)](https://github.com/nemchik)
+[![GitLab](https://img.shields.io/static/v1?style=flat-square&logo=gitlab&logoColor=white&label=&labelColor=FCA121&message=GitLab&color=16171d)](https://gitlab.com/nemchik)
+[![GMail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&logoColor=white&label=&labelColor=EA4335&message=GMail&color=16171d)](mailto://eric@nemchik.com)
+[![LinkedIn](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&message=LinkedIn&color=16171d)](https://linkedin.com/in/nemchik)
+[![Twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&labelColor=1DA1F2&message=Twitter&color=16171d)](https://twitter.com/NemchikEric)
