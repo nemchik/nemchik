@@ -30,7 +30,7 @@ Expanding my knowledge and experience with the skills and hobbies I love!
 
 ### 🌱 I’m currently learning
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&logo=typescript&logoColor=white&label=&labelColor=3178C6&message=TypeScript&color=16171d)
+![React](https://img.shields.io/static/v1?style=flat-square&logo=react&logoColor=white&label=&labelColor=61DAFB&message=React&color=16171d)
 
 ### 👯 I’m looking to collaborate on
 
