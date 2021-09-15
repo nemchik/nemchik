@@ -2,9 +2,7 @@
 
 Hello, I’m Eric Nemchik.
 
-I’m a techie who loves to code in all sorts of computer languages.
-
-Thanks for visiting.
+I am a Technical Solution Architect and Full Stack Developer with a passion for automation.
 
 ## What I'm up to
 
