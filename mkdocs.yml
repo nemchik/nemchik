@@ -1,29 +1,37 @@
 site_name: Eric Nemchik
-site_description: I'm a techie who loves to code.
-site_author: Eric Nemchik
 site_url: https://nemchik.com
+site_author: Eric Nemchik
+site_description: I'm a techie who loves to code.
 
-repo_url: https://github.com/nemchik/nemchik
 repo_name: nemchik/nemchik
+repo_url: https://github.com/nemchik/nemchik
 
-copyright: Copyright &copy; 2021 Eric Nemchik
+copyright: Copyright &copy; 2022 Eric Nemchik
 
-extra:
-  analytics:
-    provider: google
-    property: G-GBKLVHZFR3
-  manifest: manifest.webmanifest
-  social:
-    - icon: fontawesome/brands/facebook-square
-      link: https://facebook.com/nemchik
-    - icon: fontawesome/brands/github-square
-      link: https://github.com/nemchik
-    - icon: fontawesome/brands/gitlab
-      link: https://gitlab.com/nemchik
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/nemchik
-    - icon: fontawesome/brands/twitter-square
-      link: https://twitter.com/NemchikEric
+theme:
+  name: material
+  include_search_page: false
+  search_index_only: true
+  language: en
+  features:
+    - navigation.instant
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  favicon: images/favicon.ico
+  logo: images/android-chrome-512x512.png
 
 plugins:
   - search
@@ -36,26 +44,21 @@ plugins:
         s/twitter.md: https://twitter.com/NemchikEric
         u/buyshared.md: https://my.frantech.ca/aff.php?aff=1555&site=buyshared
         u/buyvm.md: https://my.frantech.ca/aff.php?aff=1555&site=buyvm
+  - minify:
+      minify_html: true
 
-theme:
-  name: material
-  features:
-    - navigation.instant
-  language: en
-  favicon: images/favicon.ico
-  logo: images/android-chrome-512x512.png
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      primary: blue grey
-      accent: red
-      scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      primary: blue grey
-      accent: red
-      scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+extra:
+  analytics:
+    provider: google
+    property: G-GBKLVHZFR3
+  social:
+    - icon: fontawesome/brands/facebook-square
+      link: https://facebook.com/nemchik
+    - icon: fontawesome/brands/github-square
+      link: https://github.com/nemchik
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/nemchik
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/nemchik
+    - icon: fontawesome/brands/twitter-square
+      link: https://twitter.com/NemchikEric
