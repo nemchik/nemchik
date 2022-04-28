@@ -28,7 +28,7 @@ Expanding my knowledge and experience with the skills and hobbies I love!
 
 ### 🌱 I’m currently learning
 
-![React](https://img.shields.io/static/v1?style=flat-square&logo=react&logoColor=white&label=&labelColor=61DAFB&message=React&color=16171d)
+![Grafana](https://img.shields.io/static/v1?style=flat-square&logo=grafana&logoColor=white&label=&labelColor=F46800&message=Grafana&color=16171d)
 
 ### 👯 I’m looking to collaborate on
 
@@ -85,6 +85,7 @@ Sleep.
 ![FileZilla](https://img.shields.io/static/v1?style=flat-square&logo=filezilla&logoColor=white&label=&labelColor=BF0000&message=FileZilla&color=16171d)
 ![Git](https://img.shields.io/static/v1?style=flat-square&logo=git&logoColor=white&label=&labelColor=F05032&message=Git&color=16171d)
 ![Google Chrome](https://img.shields.io/static/v1?style=flat-square&logo=googlechrome&logoColor=white&label=&labelColor=4285F4&message=Google%20Chrome&color=16171d)
+![Linux](https://img.shields.io/static/v1?style=flat-square&logo=linux&logoColor=black&label=&labelColor=FCC624&message=Linux&color=16171d)
 ![Microsoft Edge](https://img.shields.io/static/v1?style=flat-square&logo=microsoftedge&logoColor=white&label=&labelColor=0078D7&message=Microsoft%20Edge&color=16171d)
 ![npm](https://img.shields.io/static/v1?style=flat-square&logo=npm&logoColor=white&label=&labelColor=CB3837&message=npm&color=16171d)
 ![Prettier](https://img.shields.io/static/v1?style=flat-square&logo=prettier&logoColor=black&label=&labelColor=F7B93E&message=Prettier&color=16171d)
