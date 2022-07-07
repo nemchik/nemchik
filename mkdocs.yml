@@ -34,7 +34,7 @@ theme:
   logo: images/android-chrome-512x512.png
 
 plugins:
-  - search
+  # - search
   - redirects:
       redirect_maps:
         s/facebook.md: https://facebook.com/nemchik
@@ -62,3 +62,5 @@ extra:
       link: https://linkedin.com/in/nemchik
     - icon: fontawesome/brands/twitter-square
       link: https://twitter.com/NemchikEric
+nav:
+  - About Me: index.md
