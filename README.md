@@ -103,7 +103,7 @@ Sleep.
 ![Webpack](https://img.shields.io/static/v1?style=flat-square&logo=webpack&logoColor=black&label=&labelColor=8DD6F9&message=Webpack&color=16171d)
 ![Windows](https://img.shields.io/static/v1?style=flat-square&logo=windows&logoColor=white&label=&labelColor=0078D6&message=Windows&color=16171d)
 ![Windows Terminal](https://img.shields.io/static/v1?style=flat-square&logo=windowsterminal&logoColor=white&label=&labelColor=4D4D4D&message=Windows%20Terminal&color=16171d)
-![Yubico](https://img.shields.io/static/v1?style=flat-square&logo=yubico&logoColor=black&label=&labelColor=84BD00&message=Windows&color=16171d)
+![Yubico](https://img.shields.io/static/v1?style=flat-square&logo=yubico&logoColor=black&label=&labelColor=84BD00&message=Yubico&color=16171d)
 
 ## Stats and Achievements
 
