@@ -70,12 +70,15 @@ Sleep.
 ![Datto](https://img.shields.io/static/v1?style=flat-square&logo=datto&logoColor=white&label=&labelColor=199ED9&message=Datto&color=16171d)
 ![Dependabot](https://img.shields.io/static/v1?style=flat-square&logo=dependabot&logoColor=white&label=&labelColor=025E8C&message=Dependabot&color=16171d)
 ![GitHub](https://img.shields.io/static/v1?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&message=GitHub&color=16171d)
+![GitHub Actions](https://img.shields.io/static/v1?style=flat-square&logo=githubactions&logoColor=white&label=&labelColor=2088FF&message=GitHub%20Actions&color=16171d)
 ![GitLab](https://img.shields.io/static/v1?style=flat-square&logo=gitlab&logoColor=white&label=&labelColor=FCA121&message=GitLab&color=16171d)
+![Jenkins](https://img.shields.io/static/v1?style=flat-square&logo=jenkins&logoColor=white&label=&labelColor=D24939&message=Jenkins&color=16171d)
 ![LetsEncrypt](https://img.shields.io/static/v1?style=flat-square&logo=LetsEncrypt&logoColor=white&label=&labelColor=003A70&message=LetsEncrypt&color=16171d)
 ![Travis CI](https://img.shields.io/static/v1?style=flat-square&logo=travisci&logoColor=white&label=&labelColor=3EAAAF&message=Travis%20CI&color=16171d)
 
 ### 🧰 Tools
 
+![Alpine Linux](https://img.shields.io/static/v1?style=flat-square&logo=alpinelinux&logoColor=white&label=&labelColor=0D597F&message=Alpine%20Linux&color=16171d)
 ![Babel](https://img.shields.io/static/v1?style=flat-square&logo=babel&logoColor=black&label=&labelColor=F9DC3E&message=Babel&color=16171d)
 ![Chocolatey](https://img.shields.io/static/v1?style=flat-square&logo=chocolatey&logoColor=white&label=&labelColor=80B5E3&message=Chocolatey&color=16171d)
 ![Composer](https://img.shields.io/static/v1?style=flat-square&logo=composer&logoColor=white&label=&labelColor=885630&message=Composer&color=16171d)
@@ -98,8 +101,9 @@ Sleep.
 ![Visual Studio Code](https://img.shields.io/static/v1?style=flat-square&logo=visualstudiocode&logoColor=white&label=&labelColor=007ACC&message=Visual%20Studio%20Code&color=16171d)
 ![VMware](https://img.shields.io/static/v1?style=flat-square&logo=vmware&logoColor=white&label=&labelColor=607078&message=VMware&color=16171d)
 ![Webpack](https://img.shields.io/static/v1?style=flat-square&logo=webpack&logoColor=black&label=&labelColor=8DD6F9&message=Webpack&color=16171d)
-![Windows Terminal](https://img.shields.io/static/v1?style=flat-square&logo=windowsterminal&logoColor=white&label=&labelColor=4D4D4D&message=Windows%20Terminal&color=16171d)
 ![Windows](https://img.shields.io/static/v1?style=flat-square&logo=windows&logoColor=white&label=&labelColor=0078D6&message=Windows&color=16171d)
+![Windows Terminal](https://img.shields.io/static/v1?style=flat-square&logo=windowsterminal&logoColor=white&label=&labelColor=4D4D4D&message=Windows%20Terminal&color=16171d)
+![Yubico](https://img.shields.io/static/v1?style=flat-square&logo=yubico&logoColor=black&label=&labelColor=84BD00&message=Windows&color=16171d)
 
 ## Stats and Achievements
 
