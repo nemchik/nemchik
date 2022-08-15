@@ -52,15 +52,15 @@ extra:
     provider: google
     property: G-GBKLVHZFR3
   social:
-    - icon: fontawesome/brands/facebook-square
+    - icon: fontawesome/brands/square-facebook
       link: https://facebook.com/nemchik
-    - icon: fontawesome/brands/github-square
+    - icon: fontawesome/brands/square-github
       link: https://github.com/nemchik
-    - icon: fontawesome/brands/gitlab
+    - icon: fontawesome/brands/gitlab-square
       link: https://gitlab.com/nemchik
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/nemchik
-    - icon: fontawesome/brands/twitter-square
+    - icon: fontawesome/brands/square-twitter
       link: https://twitter.com/NemchikEric
 nav:
   - About Me: index.md
