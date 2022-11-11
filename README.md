@@ -28,7 +28,7 @@ Expanding my knowledge and experience with the skills and hobbies I love!
 
 ### 🌱 I’m currently learning
 
-![Grafana](https://img.shields.io/static/v1?style=flat-square&logo=grafana&logoColor=white&label=&labelColor=F46800&message=Grafana&color=16171d)
+![Grav](https://img.shields.io/static/v1?style=flat-square&logo=grav&logoColor=white&label=&labelColor=221E1F&message=Grav&color=16171d)
 
 ### 👯 I’m looking to collaborate on
 
