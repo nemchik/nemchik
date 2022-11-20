@@ -148,4 +148,6 @@ He/Him
 [![GitLab](https://img.shields.io/static/v1?style=flat-square&logo=gitlab&logoColor=white&label=&labelColor=FCA121&message=GitLab&color=16171d)](https://gitlab.com/nemchik)
 [![GMail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&logoColor=white&label=&labelColor=EA4335&message=GMail&color=16171d)](mailto:eric@nemchik.com)
 [![LinkedIn](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&message=LinkedIn&color=16171d)](https://linkedin.com/in/nemchik)
+<a rel="me" href="https://mastodon.linuxserver.io/@ixnyne"></a>
+[![Mastodon](https://img.shields.io/static/v1?style=flat-square&logo=mastodon&logoColor=white&label=&labelColor=6364FF&message=Mastodon&color=16171d)](https://mastodon.linuxserver.io/@ixnyne)
 [![Twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&labelColor=1DA1F2&message=Twitter&color=16171d)](https://twitter.com/NemchikEric)
