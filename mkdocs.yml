@@ -37,6 +37,9 @@ plugins:
   # - search
   - redirects:
       redirect_maps:
+        .well-known/host-meta: https://mastodon.linuxserver.io/.well-known/host-meta
+        .well-known/nodeinfo: https://mastodon.linuxserver.io/.well-known/nodeinfo
+        .well-known/webfinger: https://mastodon.linuxserver.io/.well-known/webfinger
         s/facebook.md: https://facebook.com/nemchik
         s/github.md: https://github.com/nemchik
         s/gitlab.md: https://gitlab.com/nemchik
