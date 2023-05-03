@@ -6,7 +6,7 @@ site_description: I'm a techie who loves to code.
 repo_name: nemchik/nemchik
 repo_url: https://github.com/nemchik/nemchik
 
-copyright: Copyright &copy; 2022 Eric Nemchik
+copyright: Copyright &copy; 2023 Eric Nemchik
 
 theme:
   name: material
@@ -41,6 +41,7 @@ plugins:
         s/github.md: https://github.com/nemchik
         s/gitlab.md: https://gitlab.com/nemchik
         s/linkedin.md: https://linkedin.com/in/nemchik
+        s/mastodon.md: https://mastodon.linuxserver.io/@ixnyne
         s/twitter.md: https://twitter.com/NemchikEric
         u/buyshared.md: https://my.frantech.ca/aff.php?aff=1555&site=buyshared
         u/buyvm.md: https://my.frantech.ca/aff.php?aff=1555&site=buyvm
@@ -52,15 +53,17 @@ extra:
     provider: google
     property: G-GBKLVHZFR3
   social:
-    - icon: fontawesome/brands/square-facebook
+    - icon: fontawesome/brands/facebook
       link: https://facebook.com/nemchik
-    - icon: fontawesome/brands/square-github
+    - icon: fontawesome/brands/github
       link: https://github.com/nemchik
-    - icon: fontawesome/brands/square-gitlab
+    - icon: fontawesome/brands/gitlab
       link: https://gitlab.com/nemchik
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/nemchik
-    - icon: fontawesome/brands/square-twitter
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.linuxserver.io/@ixnyne
+    - icon: fontawesome/brands/twitter
       link: https://twitter.com/NemchikEric
 nav:
   - About Me: index.md
