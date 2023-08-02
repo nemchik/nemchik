@@ -10,44 +10,35 @@ copyright: Copyright &copy; 2023 Eric Nemchik
 
 theme:
   name: material
-  include_search_page: false
-  search_index_only: true
-  language: en
   features:
+    - content.action.edit
+    - content.code.copy
+    - navigation.footer
     - navigation.instant
+    - navigation.prune
+    - navigation.top
+    - navigation.tracking
+    # - search.highlight
+    # - search.share
+    # - search.suggest
+    - toc.follow
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: blue grey
       accent: red
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: blue grey
       accent: red
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Switch to light mode
-  favicon: images/favicon.ico
-  logo: images/android-chrome-512x512.png
-
-plugins:
-  # - search
-  - redirects:
-      redirect_maps:
-        s/facebook.md: https://facebook.com/nemchik
-        s/github.md: https://github.com/nemchik
-        s/gitlab.md: https://gitlab.com/nemchik
-        s/linkedin.md: https://linkedin.com/in/nemchik
-        s/mastodon.md: https://mastodon.linuxserver.io/@ixnyne
-        s/twitter.md: https://twitter.com/NemchikEric
-        u/buyshared.md: https://my.frantech.ca/aff.php?aff=1555&site=buyshared
-        u/buyvm.md: https://my.frantech.ca/aff.php?aff=1555&site=buyvm
-        u/nextdns.md: https://nextdns.io/?from=yyd3e6sy
-  - minify:
-      minify_html: true
+  favicon: assets/favicon.ico
+  logo: assets/android-chrome-512x512.png
 
 extra:
   analytics:
@@ -66,5 +57,39 @@ extra:
       link: https://mastodon.linuxserver.io/@ixnyne
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/NemchikEric
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+
+markdown_extensions:
+  - pymdownx.extra
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - minify:
+      minify_html: true
+  - redirects:
+      redirect_maps:
+        s/facebook.md: https://facebook.com/nemchik
+        s/github.md: https://github.com/nemchik
+        s/gitlab.md: https://gitlab.com/nemchik
+        s/linkedin.md: https://linkedin.com/in/nemchik
+        s/mastodon.md: https://mastodon.linuxserver.io/@ixnyne
+        s/twitter.md: https://twitter.com/NemchikEric
+        u/buyshared.md: https://my.frantech.ca/aff.php?aff=1555&site=buyshared
+        u/buyvm.md: https://my.frantech.ca/aff.php?aff=1555&site=buyvm
+        u/nextdns.md: https://nextdns.io/?from=yyd3e6sy
+  # - search
+
 nav:
   - About Me: index.md
