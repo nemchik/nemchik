@@ -120,9 +120,9 @@ Sleep.
 
 [![DockSTARTer](https://github-readme-stats.vercel.app/api/pin/?username=GhostWriters&repo=DockSTARTer&theme=dark)](https://github.com/GhostWriters/DockSTARTer)
 
-### 👨‍💻 This week, I spent my time on
+### 👨‍💻 Recently, I spent my time on
 
-[![Eric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nemchik&theme=dark&layout=compact&range=last_7_days)](https://wakatime.com/@nemchik)
+[![Eric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nemchik&theme=dark&layout=compact)](https://wakatime.com/@nemchik)
 
 ## Get in touch with me
 
@@ -136,8 +136,7 @@ He/Him
 
 ### 💬 Ask me about
 
-- Binging Netflix
-- Riding Motorcycles
+- Binging TV and Movies
 - Eating Sushi
 
 ### 📫 How to reach me
