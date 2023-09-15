@@ -2,7 +2,7 @@
 
 Hello, I’m Eric Nemchik.
 
-I am a Technical Solution Architect and Full Stack Developer with a passion for automation.
+I am a Solution Architect, Software Developer, and DevOps Engineer with a passion for automation.
 
 ## What I'm up to
 
@@ -28,7 +28,7 @@ Expanding my knowledge and experience with the skills and hobbies I love!
 
 ### 🌱 I’m currently learning
 
-![Grav](https://img.shields.io/static/v1?style=flat-square&logo=grav&logoColor=white&label=&labelColor=221E1F&message=Grav&color=16171d)
+![Discord.js](https://img.shields.io/static/v1?style=flat-square&logo=discord&logoColor=white&label=&labelColor=5865F2&message=Discord.js&color=16171d)
 
 ### 👯 I’m looking to collaborate on
 
@@ -50,18 +50,20 @@ Sleep.
 ![HTML5](https://img.shields.io/static/v1?style=flat-square&logo=html5&logoColor=white&label=&labelColor=E34F26&message=HTML5&color=16171d)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&logo=javascript&logoColor=black&label=&labelColor=F7DF1E&message=JavaScript&color=16171d)
 ![jQuery](https://img.shields.io/static/v1?style=flat-square&logo=jquery&logoColor=white&label=&labelColor=0769AD&message=jQuery&color=16171d)
+![JSON](https://img.shields.io/static/v1?style=flat-square&logo=json&logoColor=white&label=&labelColor=000000&message=JSON&color=16171d)
 ![Markdown](https://img.shields.io/static/v1?style=flat-square&logo=markdown&logoColor=white&label=&labelColor=000000&message=Markdown&color=16171d)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=flat-square&logo=microsoftsqlserver&logoColor=white&label=&labelColor=CC2927&message=Microsoft%20SQL%20Server&color=16171d)
 ![MySQL](https://img.shields.io/static/v1?style=flat-square&logo=mysql&logoColor=white&label=&labelColor=4479A1&message=MySQL&color=16171d)
 ![NGINX](https://img.shields.io/static/v1?style=flat-square&logo=nginx&logoColor=white&label=&labelColor=009639&message=NGINX&color=16171d)
-![Node.js](https://img.shields.io/static/v1?style=flat-square&logo=nodedotjs&logoColor=white&label=&labelColor=339933&message=Node.js&color=16171d)
+![Node.js](https://img.shields.io/static/v1?style=flat-square&logo=nodedotjs&logoColor=white&label=&labelColor=CB3837&message=npm&color=16171d)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&logo=php&logoColor=white&label=&labelColor=777BB4&message=PHP&color=16171d)
 ![PowerShell](https://img.shields.io/static/v1?style=flat-square&logo=powershell&logoColor=white&label=&labelColor=5391FE&message=PowerShell&color=16171d)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&logo=typescript&logoColor=white&label=&labelColor=3178C6&message=TypeScript&color=16171d)
-![WordPress](https://img.shields.io/static/v1?style=flat-square&logo=wordpress&logoColor=white&label=&labelColor=21759B&message=WordPress&color=16171d)
+![YAML](https://img.shields.io/static/v1?style=flat-square&logo=yaml&logoColor=white&label=&labelColor=CB171E&message=YAML&color=16171d)
 
 ### ⚙️ Services
 
+![Authelia](https://img.shields.io/static/v1?style=flat-square&logo=authelia&logoColor=white&label=&labelColor=113155&message=Authelia&color=16171d)
 ![Authy](https://img.shields.io/static/v1?style=flat-square&logo=authy&logoColor=white&label=&labelColor=EC1C24&message=Authy&color=16171d)
 ![Bitwarden](https://img.shields.io/static/v1?style=flat-square&logo=bitwarden&logoColor=white&label=&labelColor=175DDC&message=Bitwarden&color=16171d)
 ![Cloudflare](https://img.shields.io/static/v1?style=flat-square&logo=cloudflare&logoColor=white&label=&labelColor=F38020&message=Cloudflare&color=16171d)
@@ -72,9 +74,13 @@ Sleep.
 ![GitHub](https://img.shields.io/static/v1?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&message=GitHub&color=16171d)
 ![GitHub Actions](https://img.shields.io/static/v1?style=flat-square&logo=githubactions&logoColor=white&label=&labelColor=2088FF&message=GitHub%20Actions&color=16171d)
 ![GitLab](https://img.shields.io/static/v1?style=flat-square&logo=gitlab&logoColor=white&label=&labelColor=FCA121&message=GitLab&color=16171d)
+![Grav](https://img.shields.io/static/v1?style=flat-square&logo=grav&logoColor=white&label=&labelColor=221E1F&message=Grav&color=16171d)
 ![Jenkins](https://img.shields.io/static/v1?style=flat-square&logo=jenkins&logoColor=white&label=&labelColor=D24939&message=Jenkins&color=16171d)
 ![LetsEncrypt](https://img.shields.io/static/v1?style=flat-square&logo=LetsEncrypt&logoColor=white&label=&labelColor=003A70&message=LetsEncrypt&color=16171d)
+![RenovateBot](https://img.shields.io/static/v1?style=flat-square&logo=renovatebot&logoColor=white&label=&labelColor=1A1F6C&message=RenovateBot&color=16171d)
+![Swagger](https://img.shields.io/static/v1?style=flat-square&logo=swagger&logoColor=white&label=&labelColor85EA2D&message=Swagger&color=16171d)
 ![Travis CI](https://img.shields.io/static/v1?style=flat-square&logo=travisci&logoColor=white&label=&labelColor=3EAAAF&message=Travis%20CI&color=16171d)
+![WordPress](https://img.shields.io/static/v1?style=flat-square&logo=wordpress&logoColor=white&label=&labelColor=21759B&message=WordPress&color=16171d)
 
 ### 🧰 Tools
 
@@ -88,11 +94,15 @@ Sleep.
 ![FileZilla](https://img.shields.io/static/v1?style=flat-square&logo=filezilla&logoColor=white&label=&labelColor=BF0000&message=FileZilla&color=16171d)
 ![Git](https://img.shields.io/static/v1?style=flat-square&logo=git&logoColor=white&label=&labelColor=F05032&message=Git&color=16171d)
 ![Google Chrome](https://img.shields.io/static/v1?style=flat-square&logo=googlechrome&logoColor=white&label=&labelColor=4285F4&message=Google%20Chrome&color=16171d)
+![Grafana](https://img.shields.io/static/v1?style=flat-square&logo=grafana&logoColor=white&label=&labelColor=F46800&message=Grafana&color=16171d)
 ![Linux](https://img.shields.io/static/v1?style=flat-square&logo=linux&logoColor=black&label=&labelColor=FCC624&message=Linux&color=16171d)
 ![Microsoft Edge](https://img.shields.io/static/v1?style=flat-square&logo=microsoftedge&logoColor=white&label=&labelColor=0078D7&message=Microsoft%20Edge&color=16171d)
 ![npm](https://img.shields.io/static/v1?style=flat-square&logo=npm&logoColor=white&label=&labelColor=CB3837&message=npm&color=16171d)
+![Postman](https://img.shields.io/static/v1?style=flat-square&logo=postman&logoColor=black&label=&labelColor=FF6C37&message=Postman&color=16171d)
 ![Prettier](https://img.shields.io/static/v1?style=flat-square&logo=prettier&logoColor=black&label=&labelColor=F7B93E&message=Prettier&color=16171d)
+![Prometheus](https://img.shields.io/static/v1?style=flat-square&logo=prometheus&logoColor=black&label=&labelColor=E6522C&message=Prometheus&color=16171d)
 ![stylelint](https://img.shields.io/static/v1?style=flat-square&logo=stylelint&logoColor=white&label=&labelColor=263238&message=stylelint&color=16171d)
+![Termius](https://img.shields.io/static/v1?style=flat-square&logo=termius&logoColor=white&label=&labelColor=000000&message=Termius&color=16171d)
 ![tmux](https://img.shields.io/static/v1?style=flat-square&logo=tmux&logoColor=white&label=&labelColor=1BB91F&message=tmux&color=16171d)
 ![ts-node](https://img.shields.io/static/v1?style=flat-square&logo=tsnode&logoColor=white&label=&labelColor=5391FE&message=ts-node&color=16171d)
 ![Ubiquiti](https://img.shields.io/static/v1?style=flat-square&logo=ubiquiti&logoColor=white&label=&labelColor=0559C9&message=Ubiquiti&color=16171d)
