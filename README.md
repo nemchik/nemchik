@@ -55,7 +55,7 @@ Sleep.
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=flat-square&logo=microsoftsqlserver&logoColor=white&label=&labelColor=CC2927&message=Microsoft%20SQL%20Server&color=16171d)
 ![MySQL](https://img.shields.io/static/v1?style=flat-square&logo=mysql&logoColor=white&label=&labelColor=4479A1&message=MySQL&color=16171d)
 ![NGINX](https://img.shields.io/static/v1?style=flat-square&logo=nginx&logoColor=white&label=&labelColor=009639&message=NGINX&color=16171d)
-![Node.js](https://img.shields.io/static/v1?style=flat-square&logo=nodedotjs&logoColor=white&label=&labelColor=CB3837&message=npm&color=16171d)
+![Node.js](https://img.shields.io/static/v1?style=flat-square&logo=nodedotjs&logoColor=white&label=&labelColor=CB3837&message=Node.js&color=16171d)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&logo=php&logoColor=white&label=&labelColor=777BB4&message=PHP&color=16171d)
 ![PowerShell](https://img.shields.io/static/v1?style=flat-square&logo=powershell&logoColor=white&label=&labelColor=5391FE&message=PowerShell&color=16171d)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&logo=typescript&logoColor=white&label=&labelColor=3178C6&message=TypeScript&color=16171d)
