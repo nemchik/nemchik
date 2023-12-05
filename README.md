@@ -30,7 +30,7 @@ Expanding my knowledge and experience with the skills and hobbies I love!
 
 ![Discord.js](https://img.shields.io/static/v1?style=flat-square&logo=discord&logoColor=white&label=&labelColor=5865F2&message=Discord.js&color=16171d)
 ![React](https://img.shields.io/static/v1?style=flat-square&logo=react&logoColor=white&label=&labelColor=61DAFB&message=React&color=16171d)
-![Next.js](https://img.shields.io/static/v1?style=flat-square&logo=nextjs&logoColor=white&label=&labelColor=000000&message=Next.js&color=16171d)
+![Next.js](https://img.shields.io/static/v1?style=flat-square&logo=nextdotjs&logoColor=white&label=&labelColor=000000&message=Next.js&color=16171d)
 
 ### 👯 I’m looking to collaborate on
 
