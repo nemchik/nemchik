@@ -65,11 +65,8 @@ Sleep.
 
 ### ⚙️ Services
 
-![Authelia](https://img.shields.io/static/v1?style=flat-square&logo=authelia&logoColor=white&label=&labelColor=113155&message=Authelia&color=16171d)
-![Authy](https://img.shields.io/static/v1?style=flat-square&logo=authy&logoColor=white&label=&labelColor=EC1C24&message=Authy&color=16171d)
 ![Bitwarden](https://img.shields.io/static/v1?style=flat-square&logo=bitwarden&logoColor=white&label=&labelColor=175DDC&message=Bitwarden&color=16171d)
 ![Cloudflare](https://img.shields.io/static/v1?style=flat-square&logo=cloudflare&logoColor=white&label=&labelColor=F38020&message=Cloudflare&color=16171d)
-![Codacy](https://img.shields.io/static/v1?style=flat-square&logo=codacy&logoColor=white&label=&labelColor=F38020&message=Codacy&color=16171d)
 ![cPanel](https://img.shields.io/static/v1?style=flat-square&logo=cpanel&logoColor=white&label=&labelColor=FF6C2C&message=cPanel&color=16171d)
 ![Datto](https://img.shields.io/static/v1?style=flat-square&logo=datto&logoColor=white&label=&labelColor=199ED9&message=Datto&color=16171d)
 ![Dependabot](https://img.shields.io/static/v1?style=flat-square&logo=dependabot&logoColor=white&label=&labelColor=025E8C&message=Dependabot&color=16171d)
@@ -88,6 +85,7 @@ Sleep.
 
 ![Alpine Linux](https://img.shields.io/static/v1?style=flat-square&logo=alpinelinux&logoColor=white&label=&labelColor=0D597F&message=Alpine%20Linux&color=16171d)
 ![Babel](https://img.shields.io/static/v1?style=flat-square&logo=babel&logoColor=black&label=&labelColor=F9DC3E&message=Babel&color=16171d)
+![Biome](https://img.shields.io/static/v1?style=flat-square&logo=biome&logoColor=black&label=&labelColor=60A5FA&message=Biome&color=16171d)
 ![Chocolatey](https://img.shields.io/static/v1?style=flat-square&logo=chocolatey&logoColor=white&label=&labelColor=80B5E3&message=Chocolatey&color=16171d)
 ![Composer](https://img.shields.io/static/v1?style=flat-square&logo=composer&logoColor=white&label=&labelColor=885630&message=Composer&color=16171d)
 ![curl](https://img.shields.io/static/v1?style=flat-square&logo=curl&logoColor=white&label=&labelColor=073551&message=curl&color=16171d)
@@ -153,6 +151,7 @@ He/Him
 
 ### 📫 How to reach me
 
+[![Bluesky](https://img.shields.io/static/v1?style=flat-square&logo=bluesky&logoColor=white&label=&labelColor=0285FF&message=Bluesky&color=16171d)](https://bsky.app/profile/nemchik.bsky.social)
 [![Facebook](https://img.shields.io/static/v1?style=flat-square&logo=facebook&logoColor=white&label=&labelColor=1877F2&message=Facebook&color=16171d)](https://facebook.com/nemchik)
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&message=GitHub&color=16171d)](https://github.com/nemchik)
 [![GitLab](https://img.shields.io/static/v1?style=flat-square&logo=gitlab&logoColor=white&label=&labelColor=FCA121&message=GitLab&color=16171d)](https://gitlab.com/nemchik)
@@ -160,4 +159,4 @@ He/Him
 [![LinkedIn](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&message=LinkedIn&color=16171d)](https://linkedin.com/in/nemchik)
 <a rel="me" href="https://mastodon.linuxserver.io/@ixnyne"></a>
 [![Mastodon](https://img.shields.io/static/v1?style=flat-square&logo=mastodon&logoColor=white&label=&labelColor=6364FF&message=Mastodon&color=16171d)](https://mastodon.linuxserver.io/@ixnyne)
-[![Twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&labelColor=1DA1F2&message=Twitter&color=16171d)](https://twitter.com/NemchikEric)
+[![X](https://img.shields.io/static/v1?style=flat-square&logo=x&logoColor=white&label=&labelColor=000000&message=X&color=16171d)](https://x.com/NemchikEric)
