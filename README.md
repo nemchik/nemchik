@@ -151,7 +151,7 @@ He/Him
 
 ### 📫 How to reach me
 
-[![Bluesky](https://img.shields.io/static/v1?style=flat-square&logo=bluesky&logoColor=white&label=&labelColor=0285FF&message=Bluesky&color=16171d)](https://bsky.app/profile/nemchik.bsky.social)
+[![Bluesky](https://img.shields.io/static/v1?style=flat-square&logo=bluesky&logoColor=white&label=&labelColor=0285FF&message=Bluesky&color=16171d)](https://bsky.app/profile/nemchik.com)
 [![Facebook](https://img.shields.io/static/v1?style=flat-square&logo=facebook&logoColor=white&label=&labelColor=1877F2&message=Facebook&color=16171d)](https://facebook.com/nemchik)
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&message=GitHub&color=16171d)](https://github.com/nemchik)
 [![GitLab](https://img.shields.io/static/v1?style=flat-square&logo=gitlab&logoColor=white&label=&labelColor=FCA121&message=GitLab&color=16171d)](https://gitlab.com/nemchik)
