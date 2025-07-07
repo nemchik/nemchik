@@ -8,7 +8,6 @@ jobs:
     container:
       image: mstruebing/editorconfig-checker:v3.3.0
     steps:
-      - uses: actions/checkout@v4.2.2
       - name: editorconfig-checker
         run: editorconfig-checker
 
@@ -17,7 +16,6 @@ jobs:
     container:
       image: markdownlint/markdownlint:0.13.0
     steps:
-      - uses: actions/checkout@v4.2.2
       - name: markdownlint
         run: mdl -r ~MD013,~MD033,~MD034 .
 
@@ -27,6 +25,5 @@ jobs:
     container:
       image: peterdavehello/yamllint:1.37.0
     steps:
-      - uses: actions/checkout@v4.2.2
       - name: yamllint
         run: yamllint -d '{"extends":"default","rules":{"document-start":{"present":false},"line-length":"disable","truthy":{"check-keys":false}}}' .
