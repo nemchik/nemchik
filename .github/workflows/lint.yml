@@ -8,6 +8,7 @@ jobs:
     container:
          image: mstruebing/editorconfig-checker:v3.3.0
     steps:
+      - uses: actions/checkout@v4.2.2
       - name: editorconfig-checker
         run: |
           cd /__w/nemchik/nemchik
@@ -19,6 +20,7 @@ jobs:
     container:
       image: markdownlint/markdownlint:0.13.0
     steps:
+      - uses: actions/checkout@v4.2.2
       - name: markdownlint
         run: |
           cd /__w/nemchik/nemchik
@@ -30,6 +32,7 @@ jobs:
     container:
       image: peterdavehello/yamllint:1.37.0
     steps:
+      - uses: actions/checkout@v4.2.2
       - name: yamllint
         run: |
           cd /__w/nemchik/nemchik
