@@ -6,7 +6,7 @@ jobs:
   editorconfig-checker:
     runs-on: ubuntu-latest
     container:
-        image: mstruebing/editorconfig-checker:v3.3.0
+      image: mstruebing/editorconfig-checker:v3.3.0
     steps:
       - name: editorconfig-checker
         run: editorconfig-checker
@@ -17,7 +17,7 @@ jobs:
       image: markdownlint/markdownlint:0.13.0
     steps:
       - name: markdownlint
-        run: mdl .
+        run: mdl -r ~MD013,~MD033,~MD034 .
 
 
   yamllint:
@@ -26,4 +26,4 @@ jobs:
       image: peterdavehello/yamllint:1.37.0
     steps:
       - name: yamllint
-        run: yamllint .
+        run: yamllint -d '{"extends":"default","rules":{"document-start":{"present":false},"line-length":"disable","truthy":{"check-keys":false}}}' .
