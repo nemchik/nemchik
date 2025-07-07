@@ -6,11 +6,12 @@ jobs:
   editorconfig-checker:
     runs-on: ubuntu-latest
     container:
-      image: mstruebing/editorconfig-checker:v3.3.0
+         image: mstruebing/editorconfig-checker:v3.3.0
     steps:
       - name: editorconfig-checker
         run: |
           cd /__w/nemchik/nemchik
+          ls -lah
           editorconfig-checker
 
   markdownlint:
@@ -21,8 +22,8 @@ jobs:
       - name: markdownlint
         run: |
           cd /__w/nemchik/nemchik
-          mdl -r ~MD013,~MD033,~MD034 .
-
+          ls -lah
+          mdl .
 
   yamllint:
     runs-on: ubuntu-latest
@@ -32,4 +33,5 @@ jobs:
       - name: yamllint
         run: |
           cd /__w/nemchik/nemchik
-          yamllint -d '{"extends":"default","rules":{"document-start":{"present":false},"line-length":"disable","truthy":{"check-keys":false}}}' .
+          ls -lah
+          yamllint .
