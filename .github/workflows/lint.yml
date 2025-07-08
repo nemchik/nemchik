@@ -11,10 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4.2.2
       - name: editorconfig-checker
-        run: |
-          cd /__w/nemchik/nemchik
-          ls -lah
-          editorconfig-checker
+        run: editorconfig-checker
 
   markdownlint:
     runs-on: ubuntu-latest
@@ -24,10 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4.2.2
       - name: markdownlint
-        run: |
-          cd /__w/nemchik/nemchik
-          ls -lah
-          mdl -r ~MD013,~MD033,~MD034 .
+        run: mdl -r ~MD013,~MD033,~MD034 .
 
   yamllint:
     runs-on: ubuntu-latest
@@ -37,7 +31,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4.2.2
       - name: yamllint
-        run: |
-          cd /__w/nemchik/nemchik
-          ls -lah
-          yamllint -d '{"extends":"default","rules":{"document-start":{"present":false},"line-length":"disable","truthy":{"check-keys":false}}}' .
+        run: yamllint -d '{"extends":"default","rules":{"document-start":{"present":false},"line-length":"disable","truthy":{"check-keys":false}}}' .
