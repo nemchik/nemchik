@@ -6,7 +6,7 @@ jobs:
   editorconfig-checker:
     runs-on: ubuntu-latest
     container:
-      image: mstruebing/editorconfig-checker:v3.3.0
+      image: mstruebing/editorconfig-checker:v3.2.1
       options: --user 0:0
     steps:
       - uses: actions/checkout@v4.2.2
@@ -16,7 +16,7 @@ jobs:
   markdownlint:
     runs-on: ubuntu-latest
     container:
-      image: markdownlint/markdownlint:0.13.0
+      image: markdownlint/markdownlint:0.12.0
       options: --user 0:0
     steps:
       - uses: actions/checkout@v4.2.2
@@ -26,7 +26,7 @@ jobs:
   yamllint:
     runs-on: ubuntu-latest
     container:
-      image: peterdavehello/yamllint:1.37.0
+      image: peterdavehello/yamllint:1.36.0
       options: --user 0:0
     steps:
       - uses: actions/checkout@v4.2.2
