@@ -7,6 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
          image: mstruebing/editorconfig-checker:v3.3.0
+         options: --user "$(id -u):$(id -g)"
     steps:
       - uses: actions/checkout@v4.2.2
       - name: editorconfig-checker
@@ -19,6 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: markdownlint/markdownlint:0.13.0
+      options: --user "$(id -u):$(id -g)"
     steps:
       - uses: actions/checkout@v4.2.2
       - name: markdownlint
@@ -31,6 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: peterdavehello/yamllint:1.37.0
+      options: --user "$(id -u):$(id -g)"
     steps:
       - uses: actions/checkout@v4.2.2
       - name: yamllint
