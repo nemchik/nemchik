@@ -26,7 +26,7 @@ jobs:
   yamllint:
     runs-on: ubuntu-latest
     container:
-      image: peterdavehello/yamllint:1.36.0@sha256:8fc65a3dcefe9df5551df193486c7e722a8bda5bc76f51d7f4bf094ed1ea1e81
+      image: peterdavehello/yamllint:1.37.0@sha256:bb8e9a2970f31503714447e2c309add8eb27ad57a66dee6fa2d37322415ed0ae
       options: --user 0:0
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
