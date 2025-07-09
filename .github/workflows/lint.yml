@@ -11,17 +11,17 @@ jobs:
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - name: editorconfig-checker
-        run: editorconfig-checker
+        run: editorconfig-checker .
 
   markdownlint:
     runs-on: ubuntu-latest
     container:
-      image: markdownlint/markdownlint:0.13.0@sha256:25c930bb03b1ea50a2e6e377e4ab6f1fe89a760f85e56d189cc007caa4301b0b
+      image: davidanson/markdownlint-cli2:v0.18.1
       options: --user 0:0
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - name: markdownlint
-        run: mdl -r ~MD013,~MD033,~MD034 .
+        run: markdownlint-cli2 .
 
   yamllint:
     runs-on: ubuntu-latest
@@ -31,4 +31,4 @@ jobs:
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - name: yamllint
-        run: yamllint -d '{"extends":"default","rules":{"document-start":{"present":false},"line-length":"disable","truthy":{"check-keys":false}}}' .
+        run: yamllint .

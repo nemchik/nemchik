@@ -93,7 +93,6 @@ plugins:
         u/buyshared.md: https://my.frantech.ca/aff.php?aff=1555&site=buyshared
         u/buyvm.md: https://my.frantech.ca/aff.php?aff=1555&site=buyvm
         u/nextdns.md: https://nextdns.io/?from=yyd3e6sy
-  # - search
 
 nav:
   - About Me: index.md
