@@ -1,42 +1,26 @@
 # About Me
 
-Hello, I’m Eric Nemchik.
+Hello, I'm Eric Nemchik.
 
 I am a Solution Architect, Software Developer, and DevOps Engineer with a passion for automation.
 
 ## What I'm up to
 
-<!--
-**nemchik/nemchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
-### 🔭 I’m currently working on
+### 🔭 I'm currently working on
 
 Expanding my knowledge and experience with the skills and hobbies I love!
 
-### 🌱 I’m currently learning
+### 🌱 I'm currently learning
 
 ![Discord.js](https://img.shields.io/static/v1?style=flat-square&logo=discord&logoColor=white&label=&labelColor=5865F2&message=Discord.js&color=16171d)
 ![React](https://img.shields.io/static/v1?style=flat-square&logo=react&logoColor=white&label=&labelColor=61DAFB&message=React&color=16171d)
 ![Next.js](https://img.shields.io/static/v1?style=flat-square&logo=nextdotjs&logoColor=white&label=&labelColor=000000&message=Next.js&color=16171d)
 
-### 👯 I’m looking to collaborate on
+### 👯 I'm looking to collaborate on
 
 Automating everything!
 
-### 🤔 I’m looking for help with
+### 🤔 I'm looking for help with
 
 Sleep.
 
