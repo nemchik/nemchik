@@ -103,8 +103,8 @@ Sleep.
 
 ### 📈 GitHub Stats
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=nemchik&theme=dark&show_icons=true)](https://github.com/nemchik)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemchik&theme=dark&layout=compact)](https://github.com/nemchik)
+[![Eric's GitHub stats](https://github-readme-stats-xi-seven-96.vercel.app/api?username=nemchik&theme=dark&show_icons=true)](https://github.com/nemchik)
+[![Top Langs](https://github-readme-stats-xi-seven-96.vercel.app/api/top-langs/?username=nemchik&theme=dark&layout=compact)](https://github.com/nemchik)
 
 ### 🏆 GitHub Trophies
 
@@ -112,11 +112,11 @@ Sleep.
 
 ### 🗂️ Highlight Projects
 
-[![DockSTARTer](https://github-readme-stats.vercel.app/api/pin/?username=GhostWriters&repo=DockSTARTer&theme=dark)](https://github.com/GhostWriters/DockSTARTer)
+[![DockSTARTer](https://github-readme-stats-xi-seven-96.vercel.app/api/pin/?username=GhostWriters&repo=DockSTARTer&theme=dark)](https://github.com/GhostWriters/DockSTARTer)
 
 ### 👨‍💻 Recently, I spent my time on
 
-[![Eric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nemchik&theme=dark&layout=compact)](https://wakatime.com/@nemchik)
+[![Eric's wakatime stats](https://github-readme-stats-xi-seven-96.vercel.app/api/wakatime?username=nemchik&theme=dark&layout=compact)](https://wakatime.com/@nemchik)
 
 ## Get in touch with me
 
