@@ -6,7 +6,7 @@ site_description: I'm a techie who loves to code.
 repo_name: nemchik/nemchik
 repo_url: https://github.com/nemchik/nemchik
 
-copyright: Copyright &copy; 2023 Eric Nemchik
+copyright: Copyright &copy; 2020-<script>document.write(new Date().getFullYear())</script> Eric Nemchik
 
 theme:
   name: material
