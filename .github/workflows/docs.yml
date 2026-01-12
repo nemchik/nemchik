@@ -1,0 +1,39 @@
+name: Documentation
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  deploy:
+    name: Build and Deploy Documentation
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+      - name: Enable GitHub Pages
+        uses: actions/configure-pages@v5.0.0
+      - name: Setup Python
+        uses: actions/setup-python@83679a892e2d95755f2dac6acb0bfd1e9ac5d548 # v6.1.0
+        with:
+          cache: "pip"
+          python-version-file: ".tool-versions"
+      - name: Install Dependencies
+        run: pip install -r docs/requirements.txt
+      - name: Build Documentation
+        run: zensical build --clean
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v4.0.0
+        with:
+          path: site
+      - name: Deploy GitHub Pages
+        id: deployment
+        if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+        uses: actions/deploy-pages@v4.0.5
