@@ -108,7 +108,7 @@ Sleep.
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nemchik&theme=darkhub)](https://github.com/nemchik)
+[![trophy](https://github-profile-trophy-pi-lemon.vercel.app/?username=nemchik&theme=darkhub)](https://github.com/nemchik)
 
 ### 🗂️ Highlight Projects
 
