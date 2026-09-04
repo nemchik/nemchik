@@ -7,25 +7,23 @@ on:
 jobs:
   editorconfig-checker:
     runs-on: ubuntu-latest
-    container:
-      image: mstruebing/editorconfig-checker:v3.11.3@sha256:b3128d82e0518b81df28d245200d86de4bf361f065668be1d1626aacd47b785e
-      options: --user 0:0
     steps:
       - name: Checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - name: editorconfig-checker
-        run: editorconfig-checker .
+      - name: Set up editorconfig-checker
+        uses: editorconfig-checker/action-editorconfig-checker@v3.0.0
+      - name: Run editorconfig-checker
+        run: editorconfig-checker
 
   markdownlint:
     runs-on: ubuntu-latest
-    container:
-      image: davidanson/markdownlint-cli2:v0.23.2@sha256:839558fd0d36c46da0e01ea84fd1d20a2822b5a8a60c16dc9708f0bb7c9e903b
-      options: --user 0:0
     steps:
       - name: Checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - name: markdownlint
-        run: markdownlint-cli2 **.{md,markdown}
+      - name: markdownlint-cli2
+        uses: DavidAnson/markdownlint-cli2-action@v24.2.0
+        with:
+          globs: '**/*.md'
 
   yamllint:
     runs-on: ubuntu-latest
