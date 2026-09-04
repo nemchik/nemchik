@@ -13,7 +13,7 @@ jobs:
       - name: Set up editorconfig-checker
         uses: editorconfig-checker/action-editorconfig-checker@v3.0.0
       - name: Run editorconfig-checker
-        run: editorconfig-checker
+        run: editorconfig-checker .
 
   markdownlint:
     runs-on: ubuntu-latest
