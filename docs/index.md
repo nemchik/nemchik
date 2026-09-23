@@ -1,2 +1,2 @@
 <!-- markdownlint-disable -->
---8<-- "README.md"
+<!--@include: ../README.md-->
