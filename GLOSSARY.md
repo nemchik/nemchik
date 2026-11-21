@@ -9,7 +9,7 @@ The `README.md` GitHub shows at the top of github.com/nemchik. A short card that
 _Avoid_: readme (unqualified), profile page
 
 **Site**:
-The static website served at nemchik.com, built from this repository and hosted on GitHub Pages. Its content is independent of the Profile README.
+The static website served at nemchik.com, built from this repository. Its content is independent of the Profile README.
 _Avoid_: docs, documentation, blog, webpage
 
 **Homepage**:
