@@ -1,0 +1,106 @@
+---
+// PROTOTYPE (nemchik/nemchik#387): AstroWind's homes/personal.astro, refilled with Eric's content.
+import Layout from '~/layouts/PageLayout.astro';
+
+import Header from '~/components/widgets/Header.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Content from '~/components/widgets/Content.astro';
+import Projects from '~/components/widgets/Projects.astro';
+import CallToAction from '~/components/widgets/CallToAction.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+
+const metadata = {
+  title: 'Eric Nemchik',
+  description: 'Solution Architect, Software Developer, and DevOps Engineer with a passion for automation.',
+};
+
+const gh = (repo: string) => `https://github.com/${repo}`;
+---
+
+<Layout metadata={metadata}>
+  <Fragment slot="announcement"></Fragment>
+  <Fragment slot="header">
+    <Header
+      links={[
+        { text: 'About', href: '#about' },
+        { text: 'Projects', href: '#projects' },
+        { text: 'Uses', href: '#uses' },
+        { text: 'Contact', href: '#contact' },
+      ]}
+      actions={[{ text: 'GitHub', href: 'https://github.com/nemchik' }]}
+      isSticky
+      showToggleTheme
+    />
+  </Fragment>
+
+  <Hero
+    id="hero"
+    title="Eric Nemchik"
+    tagline="nemchik.com"
+    actions={[
+      { variant: 'primary', text: 'Projects', href: '#projects' },
+      { text: 'Get in touch', href: '#contact' },
+    ]}
+  >
+    <Fragment slot="subtitle">
+      Solution Architect, Software Developer, and DevOps Engineer with a passion for automation.
+    </Fragment>
+  </Hero>
+
+  <Content
+    id="about"
+    columns={4}
+    items={[
+      { icon: 'tabler:brand-github', callToAction: { target: '_blank', text: 'GitHub', href: 'https://github.com/nemchik' } },
+      { icon: 'tabler:brand-linkedin', callToAction: { target: '_blank', text: 'LinkedIn', href: 'https://linkedin.com/in/nemchik' } },
+      { icon: 'tabler:brand-bluesky', callToAction: { target: '_blank', text: 'Bluesky', href: 'https://bsky.app/profile/nemchik.com' } },
+      { icon: 'tabler:brand-mastodon', callToAction: { target: '_blank', text: 'Mastodon', href: 'https://mastodon.linuxserver.io/@ixnyne' } },
+    ]}
+  >
+    <Fragment slot="content">
+      <h2 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">About me</h2>
+      <p>
+        I build integrations and automation: NetSuite and SuiteScript, Docker images, CI pipelines, and the glue
+        between them. I maintain DockSTARTer and help out on several LinuxServer.io projects.
+      </p>
+      <br />
+      <p>I've lived in Pennsylvania, Nevada, and Kentucky, and I love road trips.</p>
+    </Fragment>
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </Content>
+
+  <Projects
+    id="projects"
+    title="Projects"
+    subtitle="Open-source work I build or maintain."
+    items={[
+      { title: 'DockSTARTer', description: 'DockSTARTer helps you get started with running apps in Docker.', tags: ['Shell', 'Docker'], result: '2.5k stars', href: gh('GhostWriters/DockSTARTer'), linkText: 'GhostWriters/DockSTARTer' },
+      { title: 'SWAG', description: "Nginx webserver and reverse proxy with PHP support, a built-in Certbot (Let's Encrypt) client and fail2ban.", tags: ['Docker', 'NGINX'], result: '3.7k stars', href: gh('linuxserver/docker-swag'), linkText: 'linuxserver/docker-swag' },
+      { title: 'Reverse proxy confs', description: 'The reverse proxy configurations pulled into the SWAG image.', tags: ['NGINX'], result: '1.6k stars', href: gh('linuxserver/reverse-proxy-confs'), linkText: 'linuxserver/reverse-proxy-confs' },
+      { title: 'Nextcloud image', description: 'The LinuxServer.io Nextcloud container image.', tags: ['Docker'], result: '898 stars', href: gh('linuxserver/docker-nextcloud'), linkText: 'linuxserver/docker-nextcloud' },
+      { title: 'SuiteScript 2.1 typings', description: 'TypeScript typings for NetSuite SuiteScript.', tags: ['TypeScript', 'NetSuite'], href: gh('headintheclouddev/typings-suitescript-2.1'), linkText: 'headintheclouddev/typings-suitescript-2.1' },
+      { title: 'Biome plugin for SuiteScript', description: 'Biome lint plugins and a tag checker for NetSuite SuiteScript 2.1.', tags: ['TypeScript', 'Biome'], href: gh('nemchik/biome-plugin-suitescript'), linkText: 'nemchik/biome-plugin-suitescript' },
+    ]}
+  />
+
+  <Features3
+    id="uses"
+    title="What I use"
+    columns={3}
+    defaultIcon="tabler:point-filled"
+    items={[
+      { title: 'Languages', description: 'TypeScript, JavaScript, Bash, PowerShell, PHP, SQL, YAML' },
+      { title: 'Platforms', description: 'Docker, NGINX, Linux, Unraid, Cloudflare, NetSuite' },
+      { title: 'Automation', description: 'GitHub Actions, Renovate, Jenkins, Biome, ESLint, Prettier' },
+    ]}
+  />
+
+  <CallToAction
+    id="contact"
+    title="Get in touch"
+    subtitle="Email is best. I'm also on Bluesky, Mastodon and LinkedIn."
+    actions={[{ variant: 'primary', text: 'eric@nemchik.com', href: 'mailto:eric@nemchik.com' }]}
+  />
+</Layout>

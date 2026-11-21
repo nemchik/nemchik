@@ -1,0 +1,8 @@
+{
+  "name": "prototype-themes",
+  "private": true,
+  "description": "PROTOTYPE for nemchik/nemchik#387: three candidate Astro themes with the Homepage content. Throwaway; never merged.",
+  "scripts": {
+    "prototype": "node serve.mjs"
+  }
+}

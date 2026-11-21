@@ -1,0 +1,86 @@
+---
+// PROTOTYPE (nemchik/nemchik#387): AstroPaper's index, hero and featured list refilled with Eric's content.
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Socials from "@/components/Socials.astro";
+import LinkButton from "@/components/LinkButton.astro";
+import { useTranslations } from "@/i18n";
+import config from "@/config";
+
+const { socials } = config;
+const locale = Astro.currentLocale ?? config.site.lang;
+const t = useTranslations(locale);
+
+const projects = [
+  { title: "DockSTARTer", repo: "GhostWriters/DockSTARTer", meta: "Shell · 2.5k stars", description: "DockSTARTer helps you get started with running apps in Docker." },
+  { title: "SWAG", repo: "linuxserver/docker-swag", meta: "Docker · 3.7k stars", description: "Nginx webserver and reverse proxy with PHP support, a built-in Certbot (Let's Encrypt) client and fail2ban." },
+  { title: "Reverse proxy confs", repo: "linuxserver/reverse-proxy-confs", meta: "NGINX · 1.6k stars", description: "The reverse proxy configurations pulled into the SWAG image." },
+  { title: "Nextcloud image", repo: "linuxserver/docker-nextcloud", meta: "Docker · 898 stars", description: "The LinuxServer.io Nextcloud container image." },
+  { title: "SuiteScript 2.1 typings", repo: "headintheclouddev/typings-suitescript-2.1", meta: "TypeScript", description: "TypeScript typings for NetSuite SuiteScript." },
+  { title: "Biome plugin for SuiteScript", repo: "nemchik/biome-plugin-suitescript", meta: "TypeScript", description: "Biome lint plugins and a tag checker for NetSuite SuiteScript 2.1." },
+];
+---
+
+<Layout>
+  <Header />
+  <main id="main-content" data-layout="index" class="app-layout my-1">
+    <section id="hero" class="border-border border-b pt-8 pb-6">
+      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
+        Eric Nemchik
+      </h1>
+      <p>
+        Solution Architect, Software Developer, and DevOps Engineer with a
+        passion for automation.
+      </p>
+      <p class="mt-2">
+        I build integrations and automation: NetSuite and SuiteScript, Docker
+        images, CI pipelines, and the glue between them. I maintain{" "}
+        <LinkButton
+          class="hover:text-accent underline decoration-dashed underline-offset-4"
+          href="https://github.com/GhostWriters/DockSTARTer"
+        >
+          DockSTARTer
+        </LinkButton>{" "}
+        and help out on several LinuxServer.io projects.
+      </p>
+      {
+        socials.length > 0 && (
+          <div class="mt-4 flex max-sm:flex-col sm:items-center">
+            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">
+              {t.home.socialLinks}:
+            </div>
+            <Socials />
+          </div>
+        )
+      }
+    </section>
+
+    <section id="featured" class="pt-12 pb-6">
+      <h2 class="text-2xl font-semibold tracking-wide">Projects</h2>
+      <ul>
+        {
+          projects.map(p => (
+            <li class="my-6">
+              <a
+                href={`https://github.com/${p.repo}`}
+                class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
+              >
+                <h3 class="text-lg font-medium decoration-dashed hover:underline">
+                  {p.title}
+                </h3>
+              </a>
+              <div class="text-sm opacity-80">{p.repo} · {p.meta}</div>
+              <p>{p.description}</p>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <div class="my-8 text-center">
+      <LinkButton href="/about">About and contact →</LinkButton>
+    </div>
+  </main>
+  <Footer />
+</Layout>
